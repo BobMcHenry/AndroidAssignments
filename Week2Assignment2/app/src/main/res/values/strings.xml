@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week2Assignment</string>
+    <string name="tap">Tap to roll!</string>
+    <string name="numRollsString">Total d20s Rolled:</string>
+    <string name="critSuccessString">Critical Successes:</string>
+    <string name="critFailString">Critical Failures:</string>
+    <string name="avgRollString">Average Roll:</string>
+    <string name="reset">Reset Stats</string>
+    <string name="mostCommonRollString">Most Common Roll:</string>
+</resources>
