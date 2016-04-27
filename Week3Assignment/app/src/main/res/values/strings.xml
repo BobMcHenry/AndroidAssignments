@@ -1,4 +1,6 @@
 <resources>
-    <string name="app_name">Week3Assignment</string>
+    <string name="app_name">Week 3 Assignment</string>
     <string name="action_settings">Settings</string>
+    <string name="instructions">Press and hold to record. Double tap to playback last recording.</string>
+    <string name="instruct">Press and hold to record!</string>
 </resources>
